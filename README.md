@@ -29,8 +29,8 @@ Follow these instructions to set up and run the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   git clone https://github.com/shubham032/Weather-app.git
+   cd Weather-app
 
 2.Create a virtual environment and activate it:
    python -m venv venv
